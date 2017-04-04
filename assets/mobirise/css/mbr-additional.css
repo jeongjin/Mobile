@@ -472,22 +472,3 @@ h6,
 #menu-1 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#contacts5-6 p,
-#contacts5-6 .list-group-text,
-#contacts5-6 .form-control-label {
-  color: #000;
-}
-#contacts5-6 strong,
-#contacts5-6 h4 {
-  color: #7e9b9f;
-}
-#contacts5-6 form .form-control {
-  border-color: rgba(0, 0, 0, 0.2);
-  color: #565656;
-}
-#contacts5-6 .mbr-footer-content li {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
-}
-#contacts5-6 .mbr-company .list-group-text::after {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
-}
